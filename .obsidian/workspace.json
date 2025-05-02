@@ -11,24 +11,10 @@
             "id": "1d35b2a1324252b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Git/Coming to Grips with Git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Coming to Grips with Git"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -191,14 +177,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c1e1174fefb6cfe",
+  "active": "1d35b2a1324252b8",
   "lastOpenFiles": [
+    "Linux/Git/Coming to Grips with Git.md",
     "Linux/Bash",
     "Linux/Git/Untitled",
     "Linux/Git",
     "Linux",
     "Linux/Git/Github SSH Setup.md",
-    "Linux/Git/Coming to Grips with Git.md",
     "Journal/2025-05-02.md",
     "Journal/2025-04-30.md",
     "Tea/Reviews/Jasmine.md",
@@ -221,7 +207,6 @@
     "Scripts/quoteDatabase.js.md",
     "Scripts/randomQuote.js",
     "Scripts/New Text Document.txt",
-    "Scripts/quoteDatabase.js",
     "Scripts/weatherScript.js.md",
     "Welcome.md",
     "create a link.md"
