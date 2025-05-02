@@ -1,0 +1,1 @@
+![[2025-04-28#^medicine]] - This could very well be tied to my non-existent sleep schedule.

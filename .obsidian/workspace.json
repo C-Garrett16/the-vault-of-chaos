@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "2f92db26db00718b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b90a0e6cdff83a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d35b2a1324252b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2025-04-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-30"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4b18265cb84db98",
+    "type": "split",
+    "children": [
+      {
+        "id": "e91e73aaf9f3b2fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1e1174fefb6cfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "169945502cd1b689",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "20d06fe7305b1e94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73edf88e75369254",
+    "type": "split",
+    "children": [
+      {
+        "id": "43cf616050d95f72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "372398be6fbde28d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/DailyJournalTemplate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DailyJournalTemplate"
+            }
+          },
+          {
+            "id": "1f5461de0180c167",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/DailyJournalTemplate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DailyJournalTemplate"
+            }
+          },
+          {
+            "id": "04fe2853594ed528",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "393d338467245d8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/DailyJournalTemplate.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DailyJournalTemplate"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1d35b2a1324252b8",
+  "lastOpenFiles": [
+    "Tea/Reviews/Jasmine.md",
+    "Health/Notes For Doctor Raulston.md",
+    "Journal/2025-04-30.md",
+    "fb.bin.png",
+    "Journal/2025-04-27.md",
+    "Tea/Reviews/Earl Grey.md",
+    "Tea/Reviews/London Fog.md",
+    "Tea/Reviews/Lady Grey.md",
+    "Templates/Teareviews.md",
+    "Tea/Tea The Next Generation.md",
+    "Tea/Mood/Mood Log - Tea Days.md",
+    "Tea Dashboard.md",
+    "Journal/2025-04-28.md",
+    "Tea/Mood",
+    "Tea/Reviews",
+    "Tea",
+    "Health",
+    "Templates/DailyJournalTemplate.md",
+    "Scripts/quoteDatabase.js.md",
+    "Scripts/randomQuote.js",
+    "Scripts/New Text Document.txt",
+    "Scripts/quoteDatabase.js",
+    "Scripts/weatherEmoji.js",
+    "Scripts/weather.js",
+    "Scripts/weatherScript.js.md",
+    "Scripts",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
