@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2025-05-02.md",
+                "file": "Linux/Git/Coming to Grips with Git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-02"
+              "title": "Coming to Grips with Git"
             }
           }
         ]
@@ -167,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -197,8 +197,9 @@
     "Linux/Git/Untitled",
     "Linux/Git",
     "Linux",
-    "Github SSH Setup.md",
-    "Coming to Grips with Git.md",
+    "Linux/Git/Github SSH Setup.md",
+    "Linux/Git/Coming to Grips with Git.md",
+    "Journal/2025-05-02.md",
     "Journal/2025-04-30.md",
     "Tea/Reviews/Jasmine.md",
     "Health/Notes For Doctor Raulston.md",
