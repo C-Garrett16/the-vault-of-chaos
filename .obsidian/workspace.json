@@ -191,8 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d35b2a1324252b8",
+  "active": "2c1e1174fefb6cfe",
   "lastOpenFiles": [
+    "Linux/Bash",
+    "Linux/Git/Untitled",
+    "Linux/Git",
+    "Linux",
+    "Github SSH Setup.md",
     "Coming to Grips with Git.md",
     "Journal/2025-05-02.md",
     "Journal/2025-04-30.md",
@@ -217,10 +222,7 @@
     "Scripts/randomQuote.js",
     "Scripts/New Text Document.txt",
     "Scripts/quoteDatabase.js",
-    "Scripts/weatherEmoji.js",
-    "Scripts/weather.js",
     "Scripts/weatherScript.js.md",
-    "Scripts",
     "Welcome.md",
     "create a link.md"
   ]

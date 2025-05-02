@@ -5,9 +5,12 @@
 ---
 
 ## Commands
-- `git remote set-url origin git@github.com:YourUsername/your-repo-name.git`
-	-  This command is used to set up SSH authentication between the machine you're using and your repo in github. You will need to run this command once for every repo on the system. The repo **HAS** to be setup in Github before this will work correctly. For setting up ssh on Github from scratch, see [[Github: SSH Setup]]
+---
+### Quick Commands
 
-- `git remote -v` - Use this command as a sanity check for the above. You don't want this output to be 'https://...'. That's bad. You want it to say 'git@github.com:...'.
+- `git init` - Initialize the current folder for version control.
+- `git add` - Stages specific files for committal. (Use dot notation to stage all changes)
+- `git commit` - Commit your staged files. This is the last step before pushing. 
+	- You can add a committal message here by using the -m flag.
+- `git push` - Finally, this command pushes your committed changes to the remote. In this case, the remote will be a Gitlab repository. ^Remote-Repository
 
-- 
