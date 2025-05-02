@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2025-05-02.md",
+                "file": "Coming to Grips with Git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-02"
+              "title": "Coming to Grips with Git"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "1d35b2a1324252b8",
   "lastOpenFiles": [
+    "Coming to Grips with Git.md",
+    "Journal/2025-05-02.md",
     "Journal/2025-04-30.md",
     "Tea/Reviews/Jasmine.md",
     "Health/Notes For Doctor Raulston.md",
