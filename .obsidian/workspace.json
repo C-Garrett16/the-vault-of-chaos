@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2025-05-02.md",
+                "file": "Journal/2025-04-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-02"
+              "title": "2025-04-27"
             }
           }
         ]
@@ -170,13 +170,23 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "bc4552d2a8b61534",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,18 +203,27 @@
   },
   "active": "1d35b2a1324252b8",
   "lastOpenFiles": [
+    "Journal/2025-05-01.md",
+    "Journal/Daily/2025-05-01.md",
+    "Journal/Daily/2025-05-02.md",
+    "Journal/Daily/2025-05-02.md",
+    "Journal/Daily/2025-04-27.md",
+    "Journal/Daily/2025-04-30.md",
+    "Journal/Daily/2025-04-28.md",
+    "Journal/2025-04-27.md",
+    "Templates/Weekly.md",
+    "Journal/Weekly",
+    "Templates/DailyJournalTemplate.md",
     "Linux/Git/Github SSH Setup.md",
     "Linux/Git/Coming to Grips with Git.md",
     "Linux/Bash",
     "Linux/Git/Untitled",
     "Linux/Git",
     "Linux",
-    "Journal/2025-05-02.md",
     "Journal/2025-04-30.md",
     "Tea/Reviews/Jasmine.md",
     "Health/Notes For Doctor Raulston.md",
     "fb.bin.png",
-    "Journal/2025-04-27.md",
     "Tea/Reviews/Earl Grey.md",
     "Tea/Reviews/London Fog.md",
     "Tea/Reviews/Lady Grey.md",
@@ -217,12 +236,9 @@
     "Tea/Reviews",
     "Tea",
     "Health",
-    "Templates/DailyJournalTemplate.md",
     "Scripts/quoteDatabase.js.md",
     "Scripts/randomQuote.js",
-    "Scripts/New Text Document.txt",
     "Scripts/weatherScript.js.md",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }
