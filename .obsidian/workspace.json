@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Git/Github SSH Setup.md",
+                "file": "Journal/2025-05-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Github SSH Setup"
+              "title": "2025-05-02"
             }
           }
         ]
@@ -193,12 +193,12 @@
   },
   "active": "1d35b2a1324252b8",
   "lastOpenFiles": [
+    "Linux/Git/Github SSH Setup.md",
     "Linux/Git/Coming to Grips with Git.md",
     "Linux/Bash",
     "Linux/Git/Untitled",
     "Linux/Git",
     "Linux",
-    "Linux/Git/Github SSH Setup.md",
     "Journal/2025-05-02.md",
     "Journal/2025-04-30.md",
     "Tea/Reviews/Jasmine.md",
