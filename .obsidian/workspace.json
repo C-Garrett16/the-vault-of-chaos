@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2025-05-06.md",
+                "file": "Health/New Medication/Day 1 - Bupropion XL Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-06"
+              "title": "Day 1 - Bupropion XL Start"
             }
           }
         ]
@@ -201,10 +201,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1d35b2a1324252b8",
+  "active": "2c1e1174fefb6cfe",
   "lastOpenFiles": [
-    "Journal/Weekly/2025-W18.md",
+    "Health/New Medication",
     "Journal/Daily/2025-05-06.md",
+    "Health/New Medication/Day 1 - Bupropion XL Start.md",
+    "Journal/Weekly/2025-W18.md",
     "Journal/Daily/2025-05-03.md",
     "Journal/2025-04-27.md",
     "Journal/2025-05-01.md",
@@ -233,8 +235,6 @@
     "Templates/Teareviews.md",
     "Tea/Tea The Next Generation.md",
     "Tea/Mood/Mood Log - Tea Days.md",
-    "Tea Dashboard.md",
-    "Journal/2025-04-28.md",
     "Tea/Mood",
     "Tea/Reviews",
     "Tea",
