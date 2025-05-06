@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Weekly/2025-W18.md",
+                "file": "Journal/Daily/2025-05-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-W18"
+              "title": "2025-05-06"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "1d35b2a1324252b8",
   "lastOpenFiles": [
-    "Journal/Daily/2025-05-03.md",
     "Journal/Weekly/2025-W18.md",
+    "Journal/Daily/2025-05-06.md",
+    "Journal/Daily/2025-05-03.md",
     "Journal/2025-04-27.md",
     "Journal/2025-05-01.md",
     "Journal/Daily/2025-05-01.md",
@@ -238,7 +239,6 @@
     "Tea/Reviews",
     "Tea",
     "Health",
-    "Scripts/quoteDatabase.js.md",
     "Scripts/randomQuote.js"
   ]
 }
